@@ -18,7 +18,7 @@ bash
 
 Run
 Copy code
-git clone https://github.com/yourusername/garuda-firewall.git
+git clone https://github.com/cyberuday/garuda-firewall.git
 <h2>Configure the Firewall:</h2>
 
 Open the GarudaFirewall.php file.
